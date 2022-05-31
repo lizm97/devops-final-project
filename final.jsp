@@ -1,11 +1,11 @@
 <html>
 <head>
   <style>
-h2 {text-align: center; margin: auto;}
-h3 {text-align: center; margin: auto;}
-a {text-align: center; margin: auto;}
-title {text-align: center; margin: auto;}
-p {text-align: center; margin: auto;}
+h2 {text-align: center; margin: auto;  max-width: 500px;}
+h3 {text-align: center; margin: auto;max-width: 500px;}
+a {text-align: center; margin: auto;max-width: 500px;}
+title {text-align: center; margin: auto;max-width: 500px;}
+p {text-align: center; margin: auto;max-width: 500px;}
     
 
 </style>
