@@ -5,6 +5,7 @@ h2 {text-align: center;}
 h3 {text-align: center;}
 a {text-align: center;}
 title {text-align: center;}
+p {text-align: center;}
 </style>
   <title>DEVOPS FINAL PROJECT</title></head>
 <body>
