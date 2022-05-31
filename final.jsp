@@ -7,7 +7,9 @@ a {text-align: center;}
 title {text-align: center;}
 p {text-align: center;}
     
-
+body {
+  background-color: #E6E6FA;
+}
 </style>
   <title>DEVOPS FINAL PROJECT</title></head>
 <body>
