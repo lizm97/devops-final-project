@@ -1,11 +1,13 @@
 <html>
 <head>
   <style>
-h2 {text-align: center;}
-h3 {text-align: center;}
-a {text-align: center;}
-title {text-align: center;}
-p {text-align: center;}
+h2 {text-align: center; margin: auto;}
+h3 {text-align: center; margin: auto;}
+a {text-align: center; margin: auto;}
+title {text-align: center; margin: auto;}
+p {text-align: center; margin: auto;}
+    
+
 </style>
   <title>DEVOPS FINAL PROJECT</title></head>
 <body>
@@ -13,7 +15,6 @@ p {text-align: center;}
     double num = Math.random();
     if (num > 0.95) {
   %>
-  <br><br><br><br><br>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
     } else {
