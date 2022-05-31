@@ -1,7 +1,8 @@
 <html>
 <head>
   <style>
-h2, h3 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
 a {text-align: center;}
 title {text-align: center;}
 </style>
