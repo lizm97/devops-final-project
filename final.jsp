@@ -4,7 +4,7 @@
 h2 {text-align: center;}
 title {text-align: center;}
 </style>
-  <title>COOL JSP</title></head>
+  <title>ghfdgd JSP</title></head>
 <body>
   <%
     double num = Math.random();
