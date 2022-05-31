@@ -2,9 +2,10 @@
 <head>
   <style>
 h2 {text-align: center;}
+a {text-align: center;}
 title {text-align: center;}
 </style>
-  <title>ghfdgd JSP</title></head>
+  <title>DEVOPS FINAL PROJECT</title></head>
 <body>
   <%
     double num = Math.random();
