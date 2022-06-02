@@ -13,7 +13,7 @@ body {
   
 }
 </style>
-  <title>DEVOPS FINAL PROJECT</title></head>
+  <title>DEVOPS FINAL PROJECT CHANGE</title></head>
 <body>
   <%
     double num = Math.random();
